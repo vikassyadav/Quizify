@@ -22,9 +22,12 @@ Quizify is an Android quiz app that allows users to test their knowledge by answ
 4. Answer the quiz questions by selecting the appropriate option for each question.
 5. View your score and progress at the end of the quiz.
 
-## Screenshots
+## Dedmo & Screenshots
 
-[Insert screenshots here]
+https://github.com/vikassyadav/Quizify/assets/124931244/a5a791b0-0b8d-41ff-9893-ac4ed1bf365f
+
+
+https://github.com/vikassyadav/Quizify/assets/124931244/a3d2f612-8d66-4889-a595-44036e81ccac
 
 ## Dependencies
 
