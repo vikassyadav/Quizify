@@ -26,8 +26,8 @@ Quizify is an Android quiz app that allows users to test their knowledge by answ
 
 ![Quizify ss](https://github.com/vikassyadav/Quizify/assets/124931244/8ea03962-47d6-4b0c-952d-428356877912)
 
+https://github.com/vikassyadav/Quizify/assets/124931244/1d8e066b-8ae4-4591-821b-1655f62bfeb4
 
-https://github.com/vikassyadav/Quizify/assets/124931244/a3d2f612-8d66-4889-a595-44036e81ccac
 
 ## Dependencies
 
